@@ -4,7 +4,7 @@ Extension to post Asana tasks from the [Alfred](http://www.alfredapp.com/) comma
 ![](https://img.skitch.com/20120605-qeq1dsutqsr2fmpief68uxk46g.png)
 
 ## Installation
-Download the extension as a package and customize the settings in Alfred. If you only want to post to your personal task list you're done. If you want to be able to post to different or multiple projects read on.
+[Download the extension](https://github.com/Springest/Asana-Alfred/downloads) as a package and customize the settings in Alfred. If you only want to post to your personal task list you're done. If you want to be able to post to different or multiple projects read on.
 
 ### Multiple projects
 1. Open asana.php in your favorite editor
