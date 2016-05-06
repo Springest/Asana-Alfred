@@ -1,5 +1,12 @@
+This project is **no longer maintained**.
+
+If you're interested in taking it over, we'd love to hear from you.
+Email [developers@springest.com](mailto:developers@springest.com).
+
+*****
+
 # Asana Alfred extension
-Extension to post Asana tasks from the [Alfred](http://www.alfredapp.com/) command line. Powered by a php script that sends emails to Asana. 
+Extension to post Asana tasks from the [Alfred](http://www.alfredapp.com/) command line. Powered by a php script that sends emails to Asana.
 
 ![](https://img.skitch.com/20120605-qeq1dsutqsr2fmpief68uxk46g.png)
 
